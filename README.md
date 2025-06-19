@@ -25,6 +25,7 @@ pip install opencv-python
 
 ## 3. Download Haar Cascade File
 Download the file from:
+
 haarcascade_frontalface_default.xml
 
 Place it in your project directory and update the path in your script if needed.
@@ -38,4 +39,5 @@ The webcam window will display your face with rectangles drawn around detected f
 
 ## Author
 ## Gayatri Pippalla
+https://github.com/GayatriPippalla
 
