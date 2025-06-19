@@ -37,5 +37,5 @@ Press q to exit the webcam window.
 The webcam window will display your face with rectangles drawn around detected faces in real-time.
 
 ## Author
-Gayatri Pippalla
+## Gayatri Pippalla
 
